@@ -1,0 +1,9 @@
+---
+slug: :list_datasource
+depends:
+  mikutter: 3.0.4
+  plugin: [list_event]
+version: '1.0'
+author: mikoto2000
+name: 'list_datasource'
+description: 'リストの更新内容をデータソースとして提供するためのプラグイン'
