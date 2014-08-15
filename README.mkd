@@ -11,6 +11,14 @@ Usage:
 抽出タブのデータソースにリストが増えるので、お好きなものを選択してください。
 
 
+Requirements:
+-------------
+
+mikutter-list-event プラグインが必要です。事前に導入してください。
+
+[mikoto2000/mikutter-list-event(https://github.com/mikoto2000/mikutter-list-event)](https://github.com/mikoto2000/mikutter-list-event)
+
+
 Install:
 --------
 
