@@ -19,7 +19,7 @@ Install:
 ~~~ { .sh }
 $ mkdir -p ~/.mikutter/plugin
 $ cd ~/.mikutter/plugin
-$ git clone git://github.com/mikoto2000/mikutter-list-datasource.git list-datasource
+$ git clone git://github.com/mikoto2000/mikutter_list_datasource.git list_datasource
 ~~~
 
 License:
